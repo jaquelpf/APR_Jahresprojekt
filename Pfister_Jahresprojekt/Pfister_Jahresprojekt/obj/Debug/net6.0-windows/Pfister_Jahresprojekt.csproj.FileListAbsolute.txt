@@ -1,0 +1,144 @@
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.exe
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.deps.json
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.runtimeconfig.json
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.pdb
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.AssemblyReference.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Login.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_MainPage.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.Properties.Resources.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.GenerateResource.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.AssemblyInfoInputs.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.AssemblyInfo.cs
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.CoreCompileInputs.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\refint\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.pdb
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.genruntimeconfig.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\ref\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.CopyComplete
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Characters.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Create.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.exe
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.deps.json
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.runtimeconfig.json
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.pdb
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.AssemblyReference.cache
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Characters.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Create.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Login.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_MainPage.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.Properties.Resources.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.GenerateResource.cache
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.AssemblyInfoInputs.cache
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.AssemblyInfo.cs
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.CoreCompileInputs.cache
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.CopyComplete
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\refint\Pfister_Jahresprojekt.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.pdb
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.genruntimeconfig.cache
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\ref\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.exe
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.deps.json
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.runtimeconfig.json
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.pdb
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.AssemblyReference.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Characters.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Create.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Login.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_MainPage.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.Properties.Resources.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.GenerateResource.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.AssemblyInfoInputs.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.AssemblyInfo.cs
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.CoreCompileInputs.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.CopyComplete
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\refint\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.pdb
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.genruntimeconfig.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\ref\Pfister_Jahresprojekt.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.exe
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.deps.json
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.runtimeconfig.json
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.pdb
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.AssemblyReference.cache
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Characters.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Create.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Login.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_MainPage.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.Properties.Resources.resources
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.GenerateResource.cache
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.AssemblyInfoInputs.cache
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.AssemblyInfo.cs
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.CoreCompileInputs.cache
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.CopyComplete
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\refint\Pfister_Jahresprojekt.dll
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.pdb
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.genruntimeconfig.cache
+C:\Users\jaqueline.pfister\Documents\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\ref\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.exe
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.deps.json
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.runtimeconfig.json
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\Pfister_Jahresprojekt.pdb
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.AssemblyReference.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.cbEdit.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Characters.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Create.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Login.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_MainPage.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.Properties.Resources.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.GenerateResource.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.AssemblyInfoInputs.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.AssemblyInfo.cs
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.CoreCompileInputs.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.csproj.CopyComplete
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\refint\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.pdb
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.genruntimeconfig.cache
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\ref\Pfister_Jahresprojekt.dll
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Register.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Show.resources
+C:\Users\yukin\Documents\Schule\3ITK\APR\Jahresstuff\Pfister_JahresprojektMiauuuuuuuu\Pfister_Jahresprojekt Ver2\Pfister_Jahresprojekt\Pfister_Jahresprojekt\obj\Debug\net6.0-windows\Pfister_Jahresprojekt.f_Story.resources
